@@ -1,4 +1,3 @@
-![](https://github.com/Diegosch1/Diegosch1/assets/120030275/6b08e30e-5317-4b0b-81ee-0397dd0708fc)
 ### Hi there 👋
 
 - 🦆 Developer in development
