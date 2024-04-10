@@ -5,3 +5,4 @@
 - 💻 Systems engineering student
 - 🥑 Avocado enthusiast
 - ⚔  Currently fighting with Android Development
+- 📬 Contact: diegoale.rodriguez15@gmail.com
