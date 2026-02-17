@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🦆 Developer in development
+- 🦆 Developer in constant development
 - 🏢 C124 Studios Co-Founder
-- 💻 Systems engineering student
+- 💻 Systems and computing engineering student
 - 🥑 Avocado enthusiast
-- ⚔  Currently fighting with Android Development
 - 📬 Contact: diegoale.rodriguez15@gmail.com
